@@ -25,7 +25,7 @@
             "styles": [
               "src/styles.css"
             ],
-            "scripts": []
+            "scripts": ["node_modules/phaser/dist/phaser.js"]
           },
           "configurations": {
             "production": {
@@ -81,7 +81,7 @@
             "styles": [
               "src/styles.css"
             ],
-            "scripts": [],
+            "scripts": ["node_modules/phaser/dist/phaser.js"],
             "assets": [
               "src/favicon.ico",
               "src/assets"
